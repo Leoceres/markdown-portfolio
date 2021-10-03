@@ -1,7 +1,7 @@
 My favorite treats!
-*Patbingsu
-*Cream puff
-*Eclair
-*Tiramisu
-*Poke cake
-*Pie
+* Patbingsu
+* Cream puff
+* Eclair
+* Tiramisu
+* Poke cake
+* Pie
