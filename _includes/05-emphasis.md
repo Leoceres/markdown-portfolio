@@ -1,5 +1,5 @@
-Loyal
+**Loyal
 Clingy
 Fanboy-ish
-Obsessive
-Feminine
+Obsessive**
+*Feminine*
